@@ -10,4 +10,4 @@ This is a simulation of a simple CPU made in Logisim.
 #### Prerequisites
 Logisim: http://www.cburch.com/logisim/download.html
 
-### Important: I worked on everything, except for the tester.
+## I worked on everything, except for the tester.
